@@ -3,6 +3,7 @@
 development:
   '*':
     - presence
+    - loginsight
 production:
   '*':
     - presence
